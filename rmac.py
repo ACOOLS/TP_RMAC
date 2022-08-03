@@ -1,10 +1,7 @@
 # R-MAC Layer implementation for TensorFlow 2
-# copyright (c) 2020 IMATAG
-# www.imatag.com
 #
-# Authors: Vedran Vukotic, Vivien Chappelier
-#
-# Based on the original implementation in MATLAB
+# Authors: Aurélie Cools
+
 
 import numpy as np
 import tensorflow as tf
