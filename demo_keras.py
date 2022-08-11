@@ -1,10 +1,5 @@
 #!/usr/bin/env python
-
-# Keras API R-MAC Layer Demo for TensorFlow 2
-# copyright (c) 2020 IMATAG
-# imatag.com
-#
-# Author: Vedran Vukotic
+# Authors: Aurélie Cools
 
 import numpy as np
 import tensorflow as tf
